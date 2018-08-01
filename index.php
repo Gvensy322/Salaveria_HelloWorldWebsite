@@ -6,7 +6,7 @@
   <body>
     <h>Helo world!!! </h>
 <style>
-<h1> {
+h1 {
   color: teal;
   border: 3px teal solid;
   font-size: 6em;
@@ -15,7 +15,7 @@
   text-align: center;
   font-family: sans-serif;
   }
-</h1>
+
   
 </style>
   </body>
