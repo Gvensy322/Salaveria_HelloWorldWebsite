@@ -1,10 +1,10 @@
 <html>
   <head>
     
-    <title>Learn Heroku - Hello World!</title>
+    <title>Hello World</title>
   </head>
   <body>
-    <h>Helo world!!! </h>
+    <h>Helo world </h>
 <style>
 
 
